@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=Postman
+Name[en_IN]=Postman
+GenericName=Postman REST Client
+Comment=Programm for send REST API request
+Exec=/opt/Postman/Postman %U
+Icon=/opt/Postman/app/resources/app/assets/icon.png
+Icon[en_IN]=/opt/Postman/app/resources/app/assets/icon.png
+Terminal=false
+Type=Application
+Version=1.0

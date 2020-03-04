@@ -1,0 +1,28 @@
+\babel@toc {russian}{}
+\contentsline {chapter}{\numberline {1}\IeC {\CYRV }\IeC {\cyrv }\IeC {\cyre }\IeC {\cyrd }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre }}{2}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}\IeC {\CYRP }\IeC {\cyrr }\IeC {\cyre }\IeC {\cyrd }\IeC {\cyrp }\IeC {\cyro }\IeC {\cyrs }\IeC {\cyrery }\IeC {\cyrl }\IeC {\cyrk }\IeC {\cyri }}{2}{section.1.1}% 
+\contentsline {chapter}{\numberline {2}\IeC {\CYRS }\IeC {\cyrp }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyro }\IeC {\cyrk } \IeC {\cyrp }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrg }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrm }\IeC {\cyrm }}{3}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}\IeC {\CYRS }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyre }\IeC {\cyrm }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyre } \IeC {\cyrp }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrg }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrm }\IeC {\cyrm }\IeC {\cyrery } \IeC {\cyri } \IeC {\cyri }\IeC {\cyrn }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrr }\IeC {\cyru }\IeC {\cyrm }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyrt }\IeC {\cyrery }}{3}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}\IeC {\CYRM }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyre }\IeC {\cyrd }\IeC {\cyrzh }\IeC {\cyre }\IeC {\cyrr } \IeC {\cyrp }\IeC {\cyra }\IeC {\cyrk }\IeC {\cyre }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrv } Synaptic}{3}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}apache2}{3}{subsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.1.3}PHP}{4}{subsection.2.1.3}% 
+\contentsline {subsection}{\numberline {2.1.4}MySQL server}{4}{subsection.2.1.4}% 
+\contentsline {section}{\numberline {2.2}\IeC {\CYRN }\IeC {\cyre }\IeC {\cyro }\IeC {\cyrb }\IeC {\cyrh }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyri }\IeC {\cyrm }\IeC {\cyrery }\IeC {\cyrishrt } \IeC {\cyrm }\IeC {\cyri }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrm }\IeC {\cyru }\IeC {\cyrm }}{6}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}git}{6}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}Postman}{6}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.3}Vim}{7}{subsection.2.2.3}% 
+\contentsline {subsection}{\numberline {2.2.4}DBeaver Community}{7}{subsection.2.2.4}% 
+\contentsline {subsection}{\numberline {2.2.5}JetBrains toolbar}{8}{subsection.2.2.5}% 
+\contentsline {subsection}{\numberline {2.2.6}\IeC {\CYRM }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyre }\IeC {\cyrd }\IeC {\cyrzh }\IeC {\cyre }\IeC {\cyrr } \IeC {\cyrv }\IeC {\cyri }\IeC {\cyrr }\IeC {\cyrt }\IeC {\cyru }\IeC {\cyra }\IeC {\cyrl }\IeC {\cyrsftsn }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyrh } \IeC {\cyrm }\IeC {\cyra }\IeC {\cyrsh }\IeC {\cyri }\IeC {\cyrn }}{12}{subsection.2.2.6}% 
+\contentsline {subsection}{\numberline {2.2.7}Enpass}{13}{subsection.2.2.7}% 
+\contentsline {section}{\numberline {2.3}\IeC {\CYRD }\IeC {\cyro }\IeC {\cyrp }\IeC {\cyro }\IeC {\cyrl }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrt }\IeC {\cyre }\IeC {\cyrl }\IeC {\cyrsftsn }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyre } \IeC {\cyri } \IeC {\cyrp }\IeC {\cyro }\IeC {\cyrl }\IeC {\cyre }\IeC {\cyrz }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyre } \IeC {\cyrsh }\IeC {\cyrt }\IeC {\cyru }\IeC {\cyrk }\IeC {\cyri }}{14}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Latex}{14}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.2}twinux}{14}{subsection.2.3.2}% 
+\contentsline {subsection}{\numberline {2.3.3}calibre}{14}{subsection.2.3.3}% 
+\contentsline {subsection}{\numberline {2.3.4}Rclone Browser}{14}{subsection.2.3.4}% 
+\contentsline {subsection}{\numberline {2.3.5}Steam}{14}{subsection.2.3.5}% 
+\contentsline {subsection}{\numberline {2.3.6}Discord}{15}{subsection.2.3.6}% 
+\contentsline {subsection}{\numberline {2.3.7}PhotoGimp}{15}{subsection.2.3.7}% 
+\contentsline {chapter}{\numberline {3}\IeC {\CYRP }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyrn }\IeC {\cyra }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrishrt }\IeC {\cyrk }\IeC {\cyra } \IeC {\cyro }\IeC {\cyrk }\IeC {\cyrr }\IeC {\cyru }\IeC {\cyrzh }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrya }}{16}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}\IeC {\CYRZ }\IeC {\cyra }\IeC {\cyrm }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyra } \IeC {\cyrm }\IeC {\cyre }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyra }\IeC {\cyrm }\IeC {\cyri } \IeC {\cyrk }\IeC {\cyrn }\IeC {\cyro }\IeC {\cyrp }\IeC {\cyro }\IeC {\cyrk } CAPS / CTRL}{16}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}\IeC {\CYRP }\IeC {\cyre }\IeC {\cyrr }\IeC {\cyre }\IeC {\cyrv }\IeC {\cyro }\IeC {\cyrd } \IeC {\cyrv }\IeC {\cyrery }\IeC {\cyrd }\IeC {\cyre }\IeC {\cyrl }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyrn }\IeC {\cyro }\IeC {\cyrg }\IeC {\cyro } \IeC {\cyrt }\IeC {\cyre }\IeC {\cyrk }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyra } \IeC {\cyrp }\IeC {\cyro } shortcut \IeC {\cyrv }\IeC {\cyrn }\IeC {\cyru }\IeC {\cyrt }\IeC {\cyrr }\IeC {\cyri } \IeC {\cyrs }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyre }\IeC {\cyrm }\IeC {\cyrery }}{17}{section.3.2}% 

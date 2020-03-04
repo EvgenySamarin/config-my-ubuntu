@@ -1,0 +1,35 @@
+
+" Configuration vimrc file.
+"
+" Date create 2019.10.03
+"
+" for Unix and OS/2:  ~/.vimrc
+
+call plug#begin('~/.vim/plugged')
+
+Plug 'joshdick/onedark.vim'
+Plug 'vim-airline/vim-airline'
+Plug 'scrooloose/nerdtree', {'on': 'NERDTreeToggle'}
+Plug 'udalov/kotlin-vim'
+Plug 'Chiel92/vim-autoformat'
+Plug 'ycm-core/YouCompleteMe'
+Plug 'jiangmiao/auto-pairs'
+
+call plug#end()
+
+let g:onedark_hide_endofbuffer=1
+colorscheme onedark
+
+syntax on
+set number "numbering strings
+set mouse=a "mouse support
+set expandtab "space instead tabulation
+set tabstop=2 "two space tabulation
+set hlsearch "syntax highlight
+set incsearch "incremental search
+set clipboard=unnamed
+
+"map hotkeys to Nerd ctrl+N
+map <C-n> : NERDTreeToggle<CR>
+"map autoformat hotkeys
+noremap <F3> :Autoformat<CR>

@@ -1,0 +1,12 @@
+ #!/usr/bin/env bash 
+
+text="$(xsel -o)"
+
+translate="$(wget -U "Mozilla/5.0" -qO - "http://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=ru&dt=t&q=$(echo $text | sed "s/[\"'<>]//g")" | sed "s/,,,0]],,.*//g" | awk -F'"' '{print $2, $6}')"
+
+echo -e "Original text:" "$text"'\n' > /tmp/notitrans
+
+formatstring=$(echo $translate | sed 's/21791a8d07c2303bc1a3f9824e6ec4be//g' | sed 's/en en en//')
+echo "Translation: " "$formatstring" >> /tmp/notitrans
+
+zenity --text-info --title="Translation" --filename=/tmp/notitrans

@@ -378,6 +378,15 @@ echo '## 33. Installing VS Code'
 echo '##'
 sudo snap install --classic code # or code insiders
 
+# TODO: добавить условие на установку пакетов каждого пакета
+echo '##'
+echo '#######################################################'
+echo '## 34. Installing PulseAudio control:'
+echo '##'
+sudo apt-get install pavucontrol -y
+
+
+
 echo '##'
 echo '## Installing FINISHED - congratulation'
 echo '#######################################################'

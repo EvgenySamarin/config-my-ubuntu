@@ -7,6 +7,7 @@
 \contentsline {subsection}{\numberline {2.1.2}apache2}{4}{subsection.2.1.2}%
 \contentsline {subsection}{\numberline {2.1.3}PHP}{5}{subsection.2.1.3}%
 \contentsline {subsection}{\numberline {2.1.4}MySQL server}{5}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Pulse audio controll}{6}{subsection.2.1.5}%
 \contentsline {section}{\numberline {2.2}Необходимый минимум}{7}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}git}{7}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Postman}{7}{subsection.2.2.2}%

@@ -13,11 +13,12 @@
 \contentsline {subsection}{\numberline {2.2.2}Postman}{7}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}Vim}{8}{subsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.2.4}fish}{8}{subsection.2.2.4}%
-\contentsline {subsection}{\numberline {2.2.5}Ranger}{9}{subsection.2.2.5}%
-\contentsline {subsection}{\numberline {2.2.6}DBeaver Community}{9}{subsection.2.2.6}%
-\contentsline {subsection}{\numberline {2.2.7}JetBrains toolbar}{9}{subsection.2.2.7}%
-\contentsline {subsection}{\numberline {2.2.8}Менеджер виртуальных машин}{14}{subsection.2.2.8}%
-\contentsline {subsection}{\numberline {2.2.9}Enpass}{14}{subsection.2.2.9}%
+\contentsline {subsection}{\numberline {2.2.5}tmux}{9}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}Ranger}{9}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}DBeaver Community}{9}{subsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.8}JetBrains toolbar}{9}{subsection.2.2.8}%
+\contentsline {subsection}{\numberline {2.2.9}Менеджер виртуальных машин}{14}{subsection.2.2.9}%
+\contentsline {subsection}{\numberline {2.2.10}Enpass}{14}{subsection.2.2.10}%
 \contentsline {section}{\numberline {2.3}Дополнительные и полезные штуки}{15}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Latex}{15}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}twinux}{15}{subsection.2.3.2}%
@@ -26,6 +27,8 @@
 \contentsline {subsection}{\numberline {2.3.5}Steam}{15}{subsection.2.3.5}%
 \contentsline {subsection}{\numberline {2.3.6}Discord}{16}{subsection.2.3.6}%
 \contentsline {subsection}{\numberline {2.3.7}PhotoGimp}{16}{subsection.2.3.7}%
+\contentsline {subsection}{\numberline {2.3.8}Tilda}{16}{subsection.2.3.8}%
+\contentsline {subsection}{\numberline {2.3.9}AutoKey}{16}{subsection.2.3.9}%
 \contentsline {chapter}{\numberline {3}Поднастройка окружения}{17}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Замена местами кнопок CAPS / CTRL}{17}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Перевод выделенного текста по shortcut внутри системы}{18}{section.3.2}%
